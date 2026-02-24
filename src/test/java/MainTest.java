@@ -17,7 +17,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 
-//@ExtendWith(ResultAnalyzer.class)
+@ExtendWith(ResultAnalyzer.class)
 public class MainTest {
 
     private Circle circle;
